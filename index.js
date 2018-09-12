@@ -33,5 +33,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line//
 
 var theFunk = function funkyFunction(){
-  return funkyFunction === "FUNKY!"
+  return theFunk  === "FUNKY!"
 }
